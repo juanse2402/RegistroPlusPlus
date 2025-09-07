@@ -3,9 +3,6 @@
 Un programa simple, liviano y fácil de utilizar para registrar tus ventas.
 
 **Compatible con:**
-Windows XP
-
-Windows Vista
 
 Windows 7
 
